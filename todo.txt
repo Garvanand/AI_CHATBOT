@@ -1,0 +1,4 @@
+Theory+NLP(stemming,tokenization,bag of words)
+Creating of training data
+PyTorch model and training
+Save/load model and implement chat
