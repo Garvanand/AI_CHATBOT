@@ -57,18 +57,92 @@
       ]
     },
     {
-      "tag": "delivery",
+      "tag": "shoot time",
       "patterns": [
         "How long does shooting take?",
-        "When will I get my album?"
+        "When will I get my album?",
+        "How long it will take to print the album"
       ],
       "responses": [
         "Shoot takes 2-4 days",
-        "processing the images and videos takes 2-4 days"
+        "processing the images and videos takes 2-4 days",
+        "Album would be ready in 1 week after the shoot"
       ]
     },
     {
-      "tag": "funny",
+      "tag": "location", 
+      "patterns": [
+        "Where are you located?",
+        "What's your address?"
+      ],
+      "responses": [
+        "We are located at New Delhi.",
+        "Our office is in Delhi, at xyzz."
+      ]
+    },
+    {
+      "tag": "services", 
+      "patterns": [
+        "What services do you offer?",
+        "Tell me about your photography services."
+      ],
+      "responses": [
+        "We offer a range of photography services including weddings, events, portraits, and more.",
+        "Our services include photography for special occasions, corporate events, and individual portraits."
+      ]
+    },
+    {
+      "tag": "packages", 
+      "patterns": [
+        "What are your photography packages?",
+        "Tell me about your pricing."
+      ],
+      "responses": [
+        "We have different packages to suit various needs. You can find detailed pricing on our website or contact us for more information."
+      ]
+    },
+    {
+      "tag": "editing", 
+      "patterns": [
+        "Do you provide photo editing services?",
+        "Can I get my photos retouched?"
+      ],
+      "responses": [
+        "Yes, we offer professional photo editing services to enhance and retouch your images."
+      ]
+    },
+    {
+      "tag": "availability", 
+      "patterns": [
+        "When are you available for a photoshoot?",
+        "What are your working hours?"
+      ],
+      "responses": [
+        "Our team is available for photoshoots during 6 from 10:00 to 00:00."
+      ]
+    },
+    {
+      "tag": "refund policy", 
+      "patterns": [
+        "What is your refund policy?",
+        "Can I get a refund if I cancel?"
+      ],
+      "responses": [
+        "Our refund policy is that we process refunds for orders cancelled before 7 days from the date of event. Please refer to our terms and conditions for more details."
+      ]
+    },
+    {
+      "tag": "reviews", 
+      "patterns": [
+        "Can I see customer reviews?",
+        "What do your clients say about your services?"
+      ],
+      "responses": [
+        "You can find customer reviews on our website or social media pages. We take pride in our positive feedback."
+      ]
+    },
+    {
+      "tag": "funny", 
       "patterns": [
         "Tell me a joke!",
         "Tell me something funny!",
